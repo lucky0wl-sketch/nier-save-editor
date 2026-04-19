@@ -1,6 +1,6 @@
 # Credits to people smarter than me!
-https://github.com/NieR-Rein-Guide/nierrein.guide - Used to try and reverse the save data ID's to plain english
-https://github.com/Walter-Sparrow/lunar-tear - The project this save editor is meant to be used with
+- https://github.com/NieR-Rein-Guide/nierrein.guide - This project and it's work was used here to try and reverse the save data ID's to plain english.
+- https://github.com/Walter-Sparrow/lunar-tear - The project this save editor is meant to be used with.
 
 
 
