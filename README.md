@@ -47,7 +47,7 @@ It is designed for browsing and editing player-state tables with extra quality-o
 ### Running the program
 
 Using the live `lunar-tear` player DB:
-go run . --db /cage/lunar-tear/server/db/game.db --addr :8081 --master-data /cage/lunar-tear/server/assets/master_data
+- go run . --db /cage/lunar-tear/server/db/game.db --addr :8081 --master-data /cage/lunar-tear/server/assets/master_data
 
 Then access the web ui at 127.0.0.1:8081
 
