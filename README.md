@@ -53,7 +53,7 @@ go run . \
   --addr :8081 \
   --master-data ../lunar-tear/server/assets/master_data
 
-Then access the web ui at 192.168.0.184:8081
+Then access the web ui at 127.0.0.1:8081
 
 
 
