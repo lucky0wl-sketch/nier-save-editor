@@ -48,3 +48,8 @@ go run . \
   --master-data ../lunar-tear/server/assets/master_data
 
 Then access the web ui at 192.168.0.184:8081
+
+
+
+<img width="1693" height="999" alt="image" src="https://github.com/user-attachments/assets/deb4e8f2-056d-4f7f-9bd3-da2a62cd8e70" />
+
