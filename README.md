@@ -38,19 +38,7 @@ It is designed for browsing and editing player-state tables with extra quality-o
 
 ## Local Development
 
-### 1. Move into the project
-
-```bash
-cd "Nier Save Editor"
-```
-
-### 2. Run the editor
-
-Using the local schema-only sample DB in this folder:
-
-```bash
-go run . --db ./game.db --addr :8081 --master-data ../lunar-tear/server/assets/master_data
-```
+### Running the program
 
 Using the live `lunar-tear` player DB:
 
@@ -58,3 +46,5 @@ go run . \
   --db ../lunar-tear/server/db/game.db \
   --addr :8081 \
   --master-data ../lunar-tear/server/assets/master_data
+
+Then access the web ui at 192.168.0.184:8081
