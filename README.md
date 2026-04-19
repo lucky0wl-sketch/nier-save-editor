@@ -1,3 +1,9 @@
+#Credits to people smarter than me!
+https://github.com/NieR-Rein-Guide/nierrein.guide - Used to try and reverse the save data ID's to plain english
+https://github.com/Walter-Sparrow/lunar-tear - The project this save editor is meant to be used with
+
+
+
 # Nier Save Editor
 
 Web-based editor for the SQLite save database used by the `lunar-tear` server project.
